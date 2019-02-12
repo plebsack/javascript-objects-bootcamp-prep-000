@@ -1,5 +1,6 @@
 var playlist = {
-  'artist name': "song title",
+  'Nickleback': "Garbage",
   'Prince': "Purple Rain",
 }
 
+function updatePlaylist
