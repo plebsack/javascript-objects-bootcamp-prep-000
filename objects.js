@@ -3,6 +3,6 @@ var playlist = {
   'Prince': "Purple Rain",
 }
 
-function updatePlaylist(playlist, artistName, songTitle) = {
-  return 'artistName': songTitle';
+function updatePlaylist(playlist, artistName, songTitle){
+  return 'artistName: songTitle';
 }
