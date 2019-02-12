@@ -3,4 +3,4 @@ var playlist = {
   'Prince': "Purple Rain",
 }
 
-function updatePlaylist
+function updatePlaylist(playlist, artistName, songTitle)
